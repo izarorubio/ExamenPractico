@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/IzaroRubioUribe/Scenes/EscenaInicial.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/IzaroRubioUribe/Scenes/EscenaRoja.unity
+    guid: c7fc42cc228dbf14b834e56ca391b8ff
+  - enabled: 1
+    path: Assets/IzaroRubioUribe/Scenes/EscenaAmarilla.unity
+    guid: 2dcaf0376f02d10459c5a82c98f59bd2
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2ad1accf120bad74189fa719b96aba54, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b0af1adcb6970674cb36eb70a9141794, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5ca1cbb41a5be4046a01145d3f185bb6, type: 2}
